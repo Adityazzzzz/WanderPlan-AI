@@ -6,7 +6,7 @@ WanderPlan is an AI-powered travel planner that takes free-form natural language
 
 ## 🚀 Setup & Execution
 
-**Prerequisites:** Node.js (v18+)
+**Prerequisites:** Node.js
 
 ### 1. Install Dependencies
 
